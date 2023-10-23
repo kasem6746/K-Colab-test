@@ -34,6 +34,3 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 * Works inside your Google Drive by default.
 * Connects easily with Dataset Maker.
 
-&nbsp;
-
-![Dataset Maker screenshot](assets/datasetmaker.png)
